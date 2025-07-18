@@ -1,7 +1,4 @@
-%%writefile requirements.txt
-pandas
-scikit-learn
-numpy
-streamlit
-joblib
-xgboost # Include this if you used or plan to use XGBoost, as it's a separate library￼Enter
+pandas==2.0.3
+scikit-learn==1.2.2
+numpy==1.24.3
+streamlit==1.28.0
