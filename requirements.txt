@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+pandas
+scikit-learn
+numpy
+streamlit
+joblib
+xgboost # Include this if you used or plan to use XGBoost, as it's a separate library￼Enter
